@@ -1,0 +1,17 @@
+00:00:25.232536 VirtualBox GUI VM Selector Window 6.1.24 r145767 win.amd64 (Jul 16 2021 12:50:12) release log
+00:00:25.232549 Log opened 2021-08-13T22:34:04.679876200Z
+00:00:25.232552 Build Type: release
+00:00:25.232571 OS Product: Windows 10
+00:00:25.232574 OS Release: 10.0.19042
+00:00:25.232575 OS Service Pack: 
+00:00:25.356884 DMI Product Name: Aspire Z1-752
+00:00:25.373845 DMI Product Version: 1.03
+00:00:25.373907 Firmware type: UEFI
+00:00:25.374632 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:25.374705 Host RAM: 4012MB (3.9GB) total, 960MB available
+00:00:25.374718 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:25.374720 Process ID: 13044
+00:00:25.374722 Package type: WINDOWS_64BITS_GENERIC
+00:00:25.375159 Qt version: 5.6.2
+00:00:31.983277 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:01:01.550235 GUI: UIMediumEnumerator: Medium-enumeration finished!
